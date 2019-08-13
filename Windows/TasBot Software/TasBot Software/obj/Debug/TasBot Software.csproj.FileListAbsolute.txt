@@ -1,0 +1,11 @@
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\bin\Debug\TasBot Software.exe.config
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\bin\Debug\TasBot Software.exe
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\bin\Debug\TasBot Software.pdb
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\obj\Debug\TasBot Software.csprojAssemblyReference.cache
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\obj\Debug\TasBot_Software.Properties.Resources.resources
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\obj\Debug\TasBot_Software.StartupForm.resources
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\obj\Debug\TasBot Software.csproj.GenerateResource.cache
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\obj\Debug\TasBot Software.csproj.CoreCompileInputs.cache
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\obj\Debug\TasBot Software.exe
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\obj\Debug\TasBot Software.pdb
+C:\Users\bobwi\source\repos\TasBot Software\TasBot Software\obj\Debug\TasBot_Software.ConfigWizard.resources
